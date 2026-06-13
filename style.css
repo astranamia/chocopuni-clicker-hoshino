@@ -1,0 +1,40 @@
+
+header {
+    background-color: aliceblue;
+    width: 100vw;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    width: 100vw;
+    height: 3rem;
+    background-color: black;
+    color: aliceblue;
+    padding: 2rem;
+}
+
+.hoshinocontainer{
+    background-image: url("assets/abydosroom.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bgmbutton{
+    cursor: pointer;
+}
+
+.uheee{
+    width: 30%;
+    height: 30%;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+.uheee:active{
+    transform: scale(80%);
+}

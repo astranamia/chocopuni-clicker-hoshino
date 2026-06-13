@@ -1,0 +1,248 @@
+{
+    "audio_files": [
+        {
+            "id": 1,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Buffed_1.ogg"
+        },
+        {
+            "id": 2,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_BuffSelf_1.ogg"
+        },
+        {
+            "id": 3,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Damage_1.ogg"
+        },
+        {
+            "id": 4,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Damage_2.ogg"
+        },
+        {
+            "id": 5,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Damage_3.ogg"
+        },
+        {
+            "id": 6,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Defense_1.ogg"
+        },
+        {
+            "id": 7,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_In_1.ogg"
+        },
+        {
+            "id": 8,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_In_2.ogg"
+        },
+        {
+            "id": 9,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Move_1.ogg"
+        },
+        {
+            "id": 10,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Move_2.ogg"
+        },
+        {
+            "id": 11,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Recovery_1.ogg"
+        },
+        {
+            "id": 12,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Retire.ogg"
+        },
+        {
+            "id": 13,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Shout_1.ogg"
+        },
+        {
+            "id": 14,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Shout_2.ogg"
+        },
+        {
+            "id": 15,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Shout_3.ogg"
+        },
+        {
+            "id": 16,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_TacticalAction_1.ogg"
+        },
+        {
+            "id": 17,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Victory_1.ogg"
+        },
+        {
+            "id": 18,
+            "filepath": "hoshinovoicelines/Hoshino_Battle_Victory_2.ogg"
+        },
+        {
+            "id": 19,
+            "filepath": "hoshinovoicelines/Hoshino_Cafe_Act_1.ogg"
+        },
+        {
+            "id": 20,
+            "filepath": "hoshinovoicelines/Hoshino_Cafe_Act_2.ogg"
+        },
+        {
+            "id": 21,
+            "filepath": "hoshinovoicelines/Hoshino_Cafe_Act_3.ogg"
+        },
+        {
+            "id": 22,
+            "filepath": "hoshinovoicelines/Hoshino_Cafe_Act_4.ogg"
+        },
+        {
+            "id": 23,
+            "filepath": "hoshinovoicelines/Hoshino_Cafe_Act_5.ogg"
+        },
+        {
+            "id": 24,
+            "filepath": "hoshinovoicelines/Hoshino_CommonSkill.ogg"
+        },
+        {
+            "id": 25,
+            "filepath": "hoshinovoicelines/Hoshino_ExSkill_1.ogg"
+        },
+        {
+            "id": 26,
+            "filepath": "hoshinovoicelines/Hoshino_ExSkill_2.ogg"
+        },
+        {
+            "id": 27,
+            "filepath": "hoshinovoicelines/Hoshino_ExSkill_3.ogg"
+        },
+        {
+            "id": 28,
+            "filepath": "hoshinovoicelines/Hoshino_ExSkill_Level_1.ogg"
+        },
+        {
+            "id": 29,
+            "filepath": "hoshinovoicelines/Hoshino_ExSkill_Level_2.ogg"
+        },
+        {
+            "id": 30,
+            "filepath": "hoshinovoicelines/Hoshino_ExSkill_Level_3.ogg"
+        },
+        {
+            "id": 31,
+            "filepath": "hoshinovoicelines/Hoshino_ExWeapon_Get.ogg"
+        },
+        {
+            "id": 32,
+            "filepath": "hoshinovoicelines/Hoshino_Formation_In_1.ogg"
+        },
+        {
+            "id": 33,
+            "filepath": "hoshinovoicelines/Hoshino_Formation_In_2.ogg"
+        },
+        {
+            "id": 34,
+            "filepath": "hoshinovoicelines/Hoshino_Formation_Select.ogg"
+        },
+        {
+            "id": 35,
+            "filepath": "hoshinovoicelines/Hoshino_Gachaget.ogg"
+        },
+        {
+            "id": 36,
+            "filepath": "hoshinovoicelines/Hoshino_Growup_1.ogg"
+        },
+        {
+            "id": 37,
+            "filepath": "hoshinovoicelines/Hoshino_Growup_2.ogg"
+        },
+        {
+            "id": 38,
+            "filepath": "hoshinovoicelines/Hoshino_Growup_3.ogg"
+        },
+        {
+            "id": 39,
+            "filepath": "hoshinovoicelines/Hoshino_Growup_4.ogg"
+        },
+        {
+            "id": 40,
+            "filepath": "hoshinovoicelines/Hoshino_Lobby_1.ogg"
+        },
+        {
+            "id": 41,
+            "filepath": "hoshinovoicelines/Hoshino_Lobby_2.ogg"
+        },
+        {
+            "id": 42,
+            "filepath": "hoshinovoicelines/Hoshino_Lobby_3.ogg"
+        },
+        {
+            "id": 43,
+            "filepath": "hoshinovoicelines/Hoshino_Lobby_4.ogg"
+        },
+        {
+            "id": 44,
+            "filepath": "hoshinovoicelines/Hoshino_Lobby_5.ogg"
+        },
+        {
+            "id": 45,
+            "filepath": "hoshinovoicelines/Hoshino_LogIn_1.ogg"
+        },
+        {
+            "id": 46,
+            "filepath": "hoshinovoicelines/Hoshino_LogIn_2.ogg"
+        },
+        {
+            "id": 47,
+            "filepath": "hoshinovoicelines/Hoshino_Relationship_Up_1.ogg"
+        },
+        {
+            "id": 48,
+            "filepath": "hoshinovoicelines/Hoshino_Relationship_Up_2.ogg"
+        },
+        {
+            "id": 49,
+            "filepath": "hoshinovoicelines/Hoshino_Relationship_Up_3.ogg"
+        },
+        {
+            "id": 50,
+            "filepath": "hoshinovoicelines/Hoshino_Relationship_Up_4.ogg"
+        },
+        {
+            "id": 51,
+            "filepath": "hoshinovoicelines/Hoshino_Season_Birthday.ogg"
+        },
+        {
+            "id": 52,
+            "filepath": "hoshinovoicelines/Hoshino_Season_Birthday_Player.ogg"
+        },
+        {
+            "id": 53,
+            "filepath": "hoshinovoicelines/Hoshino_Season_Halloween.ogg"
+        },
+        {
+            "id": 54,
+            "filepath": "hoshinovoicelines/Hoshino_Season_NewYear.ogg"
+        },
+        {
+            "id": 55,
+            "filepath": "hoshinovoicelines/Hoshino_Season_Xmas.ogg"
+        },
+        {
+            "id": 56,
+            "filepath": "hoshinovoicelines/Hoshino_Tactic_Defeat_1.ogg"
+        },
+        {
+            "id": 57,
+            "filepath": "hoshinovoicelines/Hoshino_Tactic_Defeat_2.ogg"
+        },
+        {
+            "id": 58,
+            "filepath": "hoshinovoicelines/Hoshino_Tactic_In_1.ogg"
+        },
+        {
+            "id": 59,
+            "filepath": "hoshinovoicelines/Hoshino_Tactic_In_2.ogg"
+        },
+        {
+            "id": 60,
+            "filepath": "hoshinovoicelines/Hoshino_Tactic_Victory_1.ogg"
+        },
+        {
+            "id": 61,
+            "filepath": "hoshinovoicelines/Hoshino_Tactic_Victory_2.ogg"
+        }
+    ]
+}
